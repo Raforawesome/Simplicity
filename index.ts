@@ -2,7 +2,7 @@
 
 import { GuildMember } from "discord.js";
 
-// master branch
+// PTB branch
 const Discord = require("discord.js");
 const { MessageEmbed } = require("discord.js");
 const { Collection } = require("discord.js");
