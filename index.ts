@@ -22,8 +22,6 @@ for (const cfile of commandFiles) {
     client.commands.set(cmd.name, cmd);
 }
 
-// main: NzAyNzY2MTU0NjMyMTM0Njc2.XqEz_A.CeD1wsAzv6oZ349VzkfOyXEfEiM
-// PTB: NzA0MDI2Mzc1NzM2MTMxNTk0.XqXJqA.BKRiCCcMkvfDeXNw1r1mJTd4Q6Q
 client.login('NzAyNzY2MTU0NjMyMTM0Njc2.XqEz_A.CeD1wsAzv6oZ349VzkfOyXEfEiM');
 
 function getRandomInt(min: number, max: number) {
